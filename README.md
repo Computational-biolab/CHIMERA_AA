@@ -4,6 +4,8 @@ The supplementary_file_AA contains all the test cases along with mutated PDB str
 The link to feature extraction Google Colab (Feature_extraction_GC)is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
 Details of all included structural and physicochemical features and demonstration of Google Colab with an example can be found in the supplementary file ‘Feature_extraction_GC.pdf’.
 
+<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/e89b44e0-8402-4edf-9415-7c85b63aa462" />
+
 Flowchart for running the toolkit in Linux Enviornment
 ## 1. Mutation
 (Users are advised to strictly follow the template as mentioned in the executed file for inputs)
