@@ -8,7 +8,7 @@ Flowchart for running the toolkit in Linux Enviornment
 ## 1. Mutation
 (Users are advised to strictly follow the template as mentioned in the executed file for inputs)
 To use CHIMERA_AA  toolkit, user can initialize by selecting either the ChimeraX or Chimera program compatabile commands (separate folders included in the github).
-Give execution permission using chmod +x * command and run the CHIMERA_AA.sh script using ./CHIMERA_AA.sh command.
+Give execution permission using **chmod +x *** command and run the CHIMERA_AA.sh script using ./CHIMERA_AA.sh command.
 Provide details such as PDB ID (for fetching directly from RCSB PDB) or complete local path of file (template displayed in Linux environment during execution), desired output format (PDB,mmCIF or mol2), the nature of the mutations (single, multiple, or class-wise), residue IDs, chain IDs, new residue/class name (may be referred from the executed file in shell environment) and the output directory path for the generated files with the required mutations (template displayed in Linux environment during execution).
 After executing the CHIMERA_AA.sh script, a customized CHIMERA_AA.py Python file is generated with all required commands and ready to be executed in either Chimera or ChimeraX. (Note: There is no change in output files from either case.) 
 This file generates the initial structures with desired mutations in the desired format within seconds at the user-specified location in the local system.
