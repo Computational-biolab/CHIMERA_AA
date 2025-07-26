@@ -1,8 +1,8 @@
 # CHIMERA_AA: An intergrated Toolkit for protein mutation, minimization,and moleuclar feature analysis. 
-•	 Codes for CHIMERA_AA toolkit with separate folders for Chimera and ChimeraX programs are avaialble with thier names
-•  The supplementary_file_AA contains all the test cases along with mutated PDB structures, generated Python files and log files as described in the main study. 
-•	 The link to feature extraction Google Colab (Feature_extraction_GC)is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
-•	 Details of all included structural and physicochemical features and demonstration of Google Colab with an example can be found in the supplementary file ‘Feature_extraction_GC.pdf’.
+Codes for CHIMERA_AA toolkit with separate folders for Chimera and ChimeraX programs are avaialble with thier names
+The supplementary_file_AA contains all the test cases along with mutated PDB structures, generated Python files and log files as described in the main study. 
+The link to feature extraction Google Colab (Feature_extraction_GC)is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
+Details of all included structural and physicochemical features and demonstration of Google Colab with an example can be found in the supplementary file ‘Feature_extraction_GC.pdf’.
 
 <img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/e89b44e0-8402-4edf-9415-7c85b63aa462" />
 
