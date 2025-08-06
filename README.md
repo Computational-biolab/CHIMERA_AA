@@ -1,4 +1,4 @@
-# CHIMERA_AA: An intergrated Toolkit for protein mutation, minimization,and molecular feature analysis. 
+# CHIMERA_AA: A Toolkit for Modeling and Comparative Analysis of Protein Mutants
 Codes for CHIMERA_AA toolkit with separate folders for Chimera 1.19+ and ChimeraX 1.10+ programs are available with their respective commands.
 The supplementary_file_AA contains all the test cases along with mutated PDB structures, generated Python files as described in the main study. 
 The link to feature extraction Google Colab (CHIMERA_AA) is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
