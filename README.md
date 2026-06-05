@@ -1,7 +1,7 @@
 # CHIMERA_AA: A Toolkit for Modeling and Comparative Analysis of Protein Mutants
 Codes for CHIMERA_AA toolkit with separate folders for Chimera 1.19+ and ChimeraX 1.10+ programs are available with their respective commands.
 The supplementary_file_AA contains all the test cases along with mutated PDB structures, generated Python files as described in the main study. 
-The link to feature extraction Google Colab (CHIMERA_AA) is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
+The link to feature extraction Google Colab (CHIMERA_AA Feature extractiion) is (https://colab.research.google.com/drive/1UWqETo1c1eX6uXWxUn3eIY5Q0Gj2UsoJ?usp=sharing).
 Details of all included structural and physicochemical features and demonstration of Google Colab with an example can be found in the supplementary file ‘Feature_extraction_GC.pdf’.
 
 <img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/e89b44e0-8402-4edf-9415-7c85b63aa462" />
